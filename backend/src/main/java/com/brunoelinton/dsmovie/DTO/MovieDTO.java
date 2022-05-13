@@ -1,4 +1,4 @@
-package com.brunoelinton.dsmovie.DTO;
+package com.brunoelinton.dsmovie.dto;
 
 import com.brunoelinton.dsmovie.entities.Movie;
 
